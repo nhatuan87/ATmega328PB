@@ -1,0 +1,36 @@
+{
+   "packages":[
+      {
+         "name": "Atmega328PB",
+         "maintainer": "Tuan Tran",		  
+         "websiteURL": "",
+         "email": "tran.tuan@cmengineering.com.vn",
+		 "help": {
+        	"online": ""
+	   },
+     	"platforms":
+		[
+			 {
+	           "name": "Atmega328PB",
+	           "architecture": "avr",
+	           "version": "1.0.0",
+	           "category": "Atmega328PB",
+	           "url": "https://github.com/nhatuan87/ATmega328PB/raw/master/uino_m328pb_pack_1.0.0.zip",
+			   "checksum": "SHA-256:f299f5064274525a5963dd0286b3d0bfc079af6edfc8ddf3d03d8f096232e7ec",
+	           "archiveFileName": "uino_m328pb_pack_1.0.0.zip",
+	           "size": "96045", 
+	           "boards":
+				[
+	              { "name": "Atmel atmega328pb Xplained mini" }
+	           	],
+	           "toolsDependencies":
+				[				
+				]
+	        }
+	     ],      	
+		 "tools":
+		  [		
+		  ]
+		}
+	]  
+}
