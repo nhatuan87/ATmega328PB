@@ -3,7 +3,7 @@
 
 
 This is the Atmega328PB support package for Arduino derivative from Andre Moehl!
-Look at https://github.com/amoehl hardware Repo for Schematic.
+Look at https://github.com/amoehl/uino-hardware hardware Repo for Schematic.
 This package lets you compile your code for the Atmel Atmega328PB Microcontroller. There is no additionally compiler needed. You can compile out of the box.
 
 
@@ -19,7 +19,5 @@ Run "Board Manager" -> Contributed -> Atmega328PB -> _Install_
 
 ### Hardware
 
-This Package currently supports only Atmel ATmega328PB Xplained Mini boards. 
-More Information: https://github.com/nhatuan87/ATmega328PB/uino-hardware
-
+This Package currently supports only Atmel ATmega328PB Xplained Mini boards.\
 
